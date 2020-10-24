@@ -1,0 +1,6 @@
+/.idea/
+/jnaStructVolatileSemantics.iml
+/target/
+/dbgmalloc.so
+/dependency-reduced-pom.xml
+/src/main/resources/linux-x86-64/liblib.so
